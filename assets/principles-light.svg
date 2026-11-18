@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="How I work">
+<text x="0" y="22" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="2.4" fill="#C4441C">04</text>
+<text x="34" y="22" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="2.4" fill="#5C665E">HOW I WORK</text>
+<line x1="0" y1="38" x2="840" y2="38" stroke="#1A1F1C" stroke-opacity="0.18"/><text x="0" y="100" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="60" fill="#C4441C">1</text>
+<text x="0" y="140" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">One person,</text>
+<text x="0" y="168" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">whole product.</text>
+<text x="0" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">Research, design, backend,</text>
+<text x="0" y="218" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">frontend and deployment.</text>
+<text x="290" y="100" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="60" fill="#C4441C">2</text>
+<text x="290" y="140" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">By hand first,</text>
+<text x="290" y="168" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">then automated.</text>
+<text x="290" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">Do it manually, measure it,</text>
+<text x="290" y="218" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">and only then automate it.</text>
+<text x="580" y="100" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="60" fill="#C4441C">3</text>
+<text x="580" y="140" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">Shipped</text>
+<text x="580" y="168" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="23" letter-spacing="-0.2" fill="#1A1F1C">behind gates.</text>
+<text x="580" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">Tests, visual checks and real-data</text>
+<text x="580" y="218" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5C665E">verification before going live.</text>
+
+</svg>
