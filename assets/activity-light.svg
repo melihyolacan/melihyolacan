@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 352" width="840" height="352" role="img" aria-label="Activity over the last 12 months">
+<style>.ln{stroke-dasharray:1;stroke-dashoffset:1;animation:d 2.2s cubic-bezier(.22,1,.36,1) .2s forwards}@keyframes d{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.ln{animation:none;stroke-dashoffset:0}}</style>
+<text x="0" y="22" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="2.4" fill="#C4441C">03</text>
+<text x="34" y="22" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="2.4" fill="#5C665E">ACTIVITY, LAST 12 MONTHS</text>
+<line x1="0" y1="38" x2="840" y2="38" stroke="#1A1F1C" stroke-opacity="0.18"/><text x="0" y="108" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="60" letter-spacing="-0.5" fill="#1A1F1C">7,875</text>
+<text x="1" y="132" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.4" fill="#5C665E">CONTRIBUTIONS</text>
+<text x="372" y="108" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" letter-spacing="-0.5" fill="#1A1F1C">240</text>
+<text x="373" y="132" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.4" fill="#5C665E">ACTIVE DAYS</text>
+<text x="522" y="108" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" letter-spacing="-0.5" fill="#1A1F1C">279</text>
+<text x="523" y="132" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.4" fill="#5C665E">BEST DAY · NOV 7</text>
+<text x="700" y="108" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" letter-spacing="-0.5" fill="#1A1F1C">39</text>
+<text x="701" y="132" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.4" fill="#5C665E">DAY STREAK</text>
+<line x1="0" y1="272.0" x2="840" y2="272.0" stroke="#1A1F1C" stroke-opacity="0.09"/>
+<text x="0" y="267.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#5C665E">500</text>
+<line x1="0" y1="222.0" x2="840" y2="222.0" stroke="#1A1F1C" stroke-opacity="0.09"/>
+<text x="0" y="217.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#5C665E">1,000</text>
+<defs><linearGradient id="a" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#C4441C" stop-opacity="0.34"/><stop offset="1" stop-color="#C4441C" stop-opacity="0.02"/></linearGradient></defs>
+<path d="M0,322 L0.0,321.2 L16.2,318.9 L32.3,321.5 L48.5,320.4 L64.6,320.0 L80.8,320.3 L96.9,321.5 L113.1,320.9 L129.2,320.1 L145.4,321.6 L161.5,321.9 L177.7,321.8 L193.8,321.4 L210.0,318.6 L226.2,318.7 L242.3,313.1 L258.5,316.7 L274.6,321.5 L290.8,320.2 L306.9,316.7 L323.1,310.7 L339.2,318.2 L355.4,320.6 L371.5,319.6 L387.7,317.7 L403.8,319.8 L420.0,318.4 L436.2,322.0 L452.3,321.6 L468.5,319.9 L484.6,318.4 L500.8,315.6 L516.9,284.9 L533.1,305.5 L549.2,288.9 L565.4,285.0 L581.5,274.3 L597.7,287.6 L613.8,294.6 L630.0,303.2 L646.2,316.3 L662.3,298.4 L678.5,313.0 L694.6,317.1 L710.8,317.7 L726.9,247.4 L743.1,304.9 L759.2,278.3 L775.4,279.6 L791.5,290.6 L807.7,274.2 L823.8,205.7 L840.0,291.8 L840,322 Z" fill="url(#a)"/>
+<path class="ln" pathLength="1" d="M0.0,321.2 L16.2,318.9 L32.3,321.5 L48.5,320.4 L64.6,320.0 L80.8,320.3 L96.9,321.5 L113.1,320.9 L129.2,320.1 L145.4,321.6 L161.5,321.9 L177.7,321.8 L193.8,321.4 L210.0,318.6 L226.2,318.7 L242.3,313.1 L258.5,316.7 L274.6,321.5 L290.8,320.2 L306.9,316.7 L323.1,310.7 L339.2,318.2 L355.4,320.6 L371.5,319.6 L387.7,317.7 L403.8,319.8 L420.0,318.4 L436.2,322.0 L452.3,321.6 L468.5,319.9 L484.6,318.4 L500.8,315.6 L516.9,284.9 L533.1,305.5 L549.2,288.9 L565.4,285.0 L581.5,274.3 L597.7,287.6 L613.8,294.6 L630.0,303.2 L646.2,316.3 L662.3,298.4 L678.5,313.0 L694.6,317.1 L710.8,317.7 L726.9,247.4 L743.1,304.9 L759.2,278.3 L775.4,279.6 L791.5,290.6 L807.7,274.2 L823.8,205.7 L840.0,291.8" fill="none" stroke="#C4441C" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="0" y1="322" x2="840" y2="322" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<line x1="32.3" y1="322" x2="32.3" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="32.3" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">DEC</text>
+<line x1="96.9" y1="322" x2="96.9" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="96.9" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">JAN</text>
+<line x1="177.7" y1="322" x2="177.7" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="177.7" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">FEB</text>
+<line x1="242.3" y1="322" x2="242.3" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="242.3" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">MAR</text>
+<line x1="306.9" y1="322" x2="306.9" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="306.9" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">APR</text>
+<line x1="371.5" y1="322" x2="371.5" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="371.5" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">MAY</text>
+<line x1="452.3" y1="322" x2="452.3" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="452.3" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">JUN</text>
+<line x1="516.9" y1="322" x2="516.9" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="516.9" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">JUL</text>
+<line x1="581.5" y1="322" x2="581.5" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="581.5" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">AUG</text>
+<line x1="662.3" y1="322" x2="662.3" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="662.3" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">SEP</text>
+<line x1="726.9" y1="322" x2="726.9" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="726.9" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">OCT</text>
+<line x1="807.7" y1="322" x2="807.7" y2="327" stroke="#1A1F1C" stroke-opacity="0.32"/>
+<text x="807.7" y="342" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#5C665E">NOV</text>
+<circle cx="823.8" cy="205.7" r="5" fill="#C4441C" stroke="#ffffff" stroke-width="2"/>
+<text x="811.8" y="201.7" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1A1F1C">1,163 in one week</text>
+
+</svg>

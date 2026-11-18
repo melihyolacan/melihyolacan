@@ -27,6 +27,13 @@
 <br><br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" width="100%" alt="Activity over the last 12 months: weekly contributions drawn as an elevation profile, with total contributions, active days, best day and longest streak. Includes private work.">
+</picture>
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" width="100%" alt="What I work with. Languages: TypeScript, Go, Python, Swift. Product: Next.js, React, Expo / React Native, Hono, Bun, PostgreSQL. AI: LLM agents and tool use, image and video pipelines, self-hosted GPU inference. Shipping: Vercel, Railway, Cloudflare Workers and R2, Stripe.">
 </picture>
